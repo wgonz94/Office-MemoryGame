@@ -1,0 +1,15 @@
+div.jumbotron{
+    font-family: 'Courier Prime', monospace;
+    background-image: url("https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    background-blend-mode: normal;
+    opacity: 0.9;
+}
+
+h1{
+    background-color: blanchedalmond;
+    opacity: 0.9;
+    margin-top: 100px;  
+}
+
