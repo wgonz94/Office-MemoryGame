@@ -16,8 +16,10 @@ https://wgonz94.github.io/Clicky-Game-/
 ## Technologies Involved
 
 * React.js
+* GitHub Pages
 * Google Fonts
 * Bootstrap
-* HTML
-* CSS
+* HTML/CSS
 * Javascript/jQuery
+
+
