@@ -1,7 +1,7 @@
 # Office-clickygame
 ![Gif of Office App](https://media0.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-A memory game with React(The Office). This assignment will requires breaking up the application's UI into components, managing component state, and responding to user events.
+A memory game with React(The Office). This requires breaking up the application's UI into components, managing component state, and responding to user events.
 
 The app should render different cast members from the Office to the screen. Each image should listen for click events.
 
