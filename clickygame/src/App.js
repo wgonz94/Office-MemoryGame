@@ -6,7 +6,7 @@ import Alert from "./components/Alert";
 import Score from "./components/Score";
 import office from "./cards.json";
 import Header from "./components/Header";
-
+import './App.css'
 
 class App extends Component {
     // this handles state of cards along with scores and game logic
@@ -44,14 +44,16 @@ class App extends Component {
     endGame = (name, result) => {
       const newState = {...this.state};
       if(newState.pickedCards.includes(name)) {
-          newState.message = `Oh No! you picked "${name}" already!`
-          console.log(newState.message)
+          newState.alertMessage = `Oh No! you picked "${name}" already!`
+          this.setState({ alertMessage: newState.alertMessage})
+          console.log(newState.alertMessage)
           newState.pickedCards.length = 0
           this.setState({ [this.state] : newState})
       } else {
           newState.pickedCards.push(name)
           console.log(newState.pickedCards)
-          newState.message = `Great Job!`
+          newState.alertMessage = `Great Job!`
+          this.setState({ alertMessage: newState.alertMessage})
           this.setState({ [this.state] : newState})
       }
       result(newState, this.resultWinner)
@@ -78,7 +80,7 @@ class App extends Component {
 
     render() {
         return (
-            <div>
+            <div className="background">
                 
                 <Container>
                     <Row>

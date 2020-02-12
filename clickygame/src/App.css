@@ -1,0 +1,9 @@
+div.background{
+    background-image: url(https://wallpaperaccess.com/full/1146179.jpg);
+    background-repeat: no-repeat;
+    background-size: 125% 100%
+}
+
+div.container{
+    margin-right: 50%;
+}
