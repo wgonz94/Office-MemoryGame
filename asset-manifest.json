@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Office-clickygame/static/css/main.43784364.chunk.css",
+    "main.js": "/Office-clickygame/static/js/main.95816636.chunk.js",
+    "main.js.map": "/Office-clickygame/static/js/main.95816636.chunk.js.map",
+    "runtime-main.js": "/Office-clickygame/static/js/runtime-main.e2bfc047.js",
+    "runtime-main.js.map": "/Office-clickygame/static/js/runtime-main.e2bfc047.js.map",
+    "static/js/2.dff41b99.chunk.js": "/Office-clickygame/static/js/2.dff41b99.chunk.js",
+    "static/js/2.dff41b99.chunk.js.map": "/Office-clickygame/static/js/2.dff41b99.chunk.js.map",
+    "index.html": "/Office-clickygame/index.html",
+    "precache-manifest.70f5f6dad18ab6ec88cdd48e0d9ff4ea.js": "/Office-clickygame/precache-manifest.70f5f6dad18ab6ec88cdd48e0d9ff4ea.js",
+    "service-worker.js": "/Office-clickygame/service-worker.js",
+    "static/css/main.43784364.chunk.css.map": "/Office-clickygame/static/css/main.43784364.chunk.css.map",
+    "static/js/2.dff41b99.chunk.js.LICENSE": "/Office-clickygame/static/js/2.dff41b99.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2bfc047.js",
+    "static/js/2.dff41b99.chunk.js",
+    "static/css/main.43784364.chunk.css",
+    "static/js/main.95816636.chunk.js"
+  ]
+}
