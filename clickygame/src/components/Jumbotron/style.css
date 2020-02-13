@@ -10,6 +10,9 @@ div.jumbotron{
 h1{
     background-color: blanchedalmond;
     opacity: 0.9;
-    margin-top: 100px;  
+    margin-top: 100px;
+    margin-left: 23%;
+    white-space: nowrap;  
+    width: 55%;
 }
 

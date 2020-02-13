@@ -5,7 +5,7 @@ import "./style.css";
 function Jumbotron(props) {
   return (
     <div className="jumbotron text-center">
-      <h1>Clicky Game: The Office</h1>
+      <h1>The Office: Memory Game!</h1>
     </div>
   );
 }
