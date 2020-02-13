@@ -2,7 +2,7 @@
 ![Gif of Office App](https://media0.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ## Deployed Site
-https://wgonz94.github.io/Clicky-Game-/
+https://wgonz94.github.io/Office-clickygame/
 
 ## What does The Office Clicky Game Do?
 
@@ -23,3 +23,5 @@ https://wgonz94.github.io/Clicky-Game-/
 * Javascript/jQuery
 
 
+## Developer
+*William Gonzales*
