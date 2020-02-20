@@ -1,4 +1,4 @@
-# Office-clickygame
+# Memory Game- The Office
 ![Gif of Office App](https://media0.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ## Deployed Site
