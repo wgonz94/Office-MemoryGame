@@ -2,7 +2,7 @@
 ![Gif of Office App](https://media0.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ## Deployed Site
-https://wgonz94.github.io/Office-clickygame/
+https://wgonz94.github.io/Office-MemoryGame/
 
 ## What does The Office Clicky Game Do?
 
